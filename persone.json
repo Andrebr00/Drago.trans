@@ -1,23 +1,30 @@
 [
   {
-    "nome": "Luca",
-    "cognome": "Rossi",
-    "indirizzo": "Via Milano 12",
-    "citta": "Milano",
-    "cap": "20100"
+    "nome": "Andrea",
+    "cognome": "Bergamaschi",
+    "indirizzo": "Via Novara 26",
+    "citta": "Pregnana city",
+    "cap": "20006"
   },
   {
-    "nome": "Giulia",
-    "cognome": "Bianchi",
-    "indirizzo": "Corso Roma 45",
-    "citta": "Torino",
-    "cap": "10100"
+    "nome": "Jacopo",
+    "cognome": "Pesare",
+    "indirizzo": "Via Gallarate 69",
+    "citta": "Pregnana beach",
+    "cap": "20006"
+  },
+    {
+    "nome": "Zio",
+    "cognome": "Walter",
+    "indirizzo": "Via Re di Puglia 7",
+    "citta": "Pregnana trojage",
+    "cap": "20006"
   },
   {
     "nome": "Marco",
-    "cognome": "Verdi",
-    "indirizzo": "Via Firenze 20",
-    "citta": "Firenze",
+    "cognome": "Soldi",
+    "indirizzo": "Via dalle palle 15",
+    "citta": "Oceano <Svizzera>",
     "cap": "50100"
   }
 ]
